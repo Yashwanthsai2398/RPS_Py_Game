@@ -1,12 +1,4 @@
 #YASHWANTH_SAI_BATHINI
-#1017917780
-#DATE_OF_CREATION : 22/NOVEMBER/2023
-'''This Python program is an interactive Rock-Paper-Scissors game created using Tkinter. Users provide their name and 
-select among Rock, Paper, or Scissors using radio buttons. The game evaluates the user's choice against a 
-computer-generated one, displaying corresponding images for both selections. A function determines the winner based on 
-predefined game rules. Just like  Assignment 4 I have enhanced the current code to keep track of the Stats, including 
-games played, won, tied, and lost, are tracked globally and updated after each round. The interface visually showcases
-the outcome (win, loss, or tie) and continuously maintains records of the user's performance across multiple rounds.'''
 #Imported the respective libraries which are used in the below following program
 import tkinter as tk
 import random
